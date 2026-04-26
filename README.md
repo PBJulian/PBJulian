@@ -1,5 +1,6 @@
 # Hi there! I'm José Julian 👋
 ****Data Science Student @ IIMAS, UNAM | Aspiring Data Scientist & Analyst****
+
 I am a student in the **Data Science** program at **UNAM** with a solid background in **Computer Engineering** (FI, UNAM). I specialize in building robust data architectures and turning raw data into actionable insights through statistical modeling.
 ---
 ### 🛠 Tech Stack & Tools
